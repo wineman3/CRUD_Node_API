@@ -4,7 +4,7 @@ A REST API built using node, express, and MongoDB. With this API you can create,
 
 ## Motivation
 
-My motivation behind this project was to gain more experience working with server-side JavaScript and get a start with MongoDB.
+My motivation behind this project was to gain more experience working with server-side JavaScript and get a start with MongoDB. Followed a tutorial from FreeCodeCamp, which you can find [HERE](https://www.freecodecamp.org/news/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2/).
 
 ## Tools
 
