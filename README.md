@@ -15,30 +15,30 @@ My motivation behind this project was to gain more experience working with serve
 
 ## Running the API locally
 
-`git clone https://github.com/wineman3/CRUD_Node_API`
-`cd CRUD_Node_API`
-`npm i`
-`npm run dev`
+`git clone https://github.com/wineman3/CRUD_Node_API` <br>
+`cd CRUD_Node_API`<br>
+`npm i`<br>
+`npm run dev`<br>
 You can now reach the API at http://localhost:8080
 
 ## API Methods
 
-### POST /notes
+#### POST /notes
 
 Add a new note.
 
-### GET /notes
+#### GET /notes
 
 Gets all notes from the Collection.
 
-### GET /notes/:id
+#### GET /notes/:id
 
 Gets a note by id.
 
-### PUT /notes/:id
+#### PUT /notes/:id
 
 Update note.
 
-### DELETE /notes/:id
+#### DELETE /notes/:id
 
 Delete note by id.
