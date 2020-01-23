@@ -14,6 +14,6 @@ MongoClient.connect(db.url, (err, client) => {
   require("./app/routes")(app, client.db("note-api"));
 
   app.listen(port, () => {
-    console.log("We are live on " + port);
+    console.log("We are live on " + process.env.port);
   });
 });
